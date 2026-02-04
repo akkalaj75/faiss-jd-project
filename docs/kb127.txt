@@ -1,0 +1,13 @@
+﻿Doc 127 - IT Support KB
+
+VPN troubleshooting:
+- check internet, restart client, verify firewall, DNS, time sync, logs
+
+Password policy:
+- 12+ chars, complexity, MFA
+
+Cloud deployment:
+- Docker, CI/CD, secrets vault, monitoring, autoscaling, rollback
+
+Incident response:
+- triage, logs, mitigation, comms, postmortem

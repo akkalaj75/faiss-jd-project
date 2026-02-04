@@ -1,0 +1,3 @@
+VPN troubleshooting steps: check connectivity, restart client, validate credentials, check firewall rules.
+Password policy: minimum 12 characters, uppercase, lowercase, number, symbol, MFA required.
+Cloud deployment: use Docker, CI/CD, secrets vault, logging and monitoring.
